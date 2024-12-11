@@ -6,6 +6,8 @@
 `UnrealSuite` is a set of tools for building, packaging and launching all things
 Unreal Engine.
 
+The original gist can be found [here](https://gist.github.com/daltongd/e73d8748cb7a8f35243a3f69318519f9).
+
 ## Alternatives
 
 `ushell` - a tool shipped with Unreal Engine's source which shares some capabilities
